@@ -1,4 +1,4 @@
 # fitness
 Fitness and Nutrition Website
-Used html, css, bootstrap, javascript
+Used Html, Css, Bootstrap, Javascript
 Beginners project
